@@ -10,3 +10,5 @@ I combine it with the city’s street network from OpenStreetMap and use Network
 I then plot the isochrone using Folium and branca.
 
 ![image](https://github.com/enricoburi/Isochrone_Milan_Infrastructure/assets/77646195/0c81fad7-255f-4625-9568-7546e228e5c6)
+
+(Original inspiration: https://betterprogramming.pub/creating-a-traveling-distance-map-for-a-whole-city-with-python-f2e063272832)

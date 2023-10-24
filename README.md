@@ -3,7 +3,7 @@
 _"An isochrone map in urban planning is a map that depicts the area accessible from a point within a certain time/distance threshold."_
 
 In this project, I create isochrones of various types of infrastructures in my hometown, Milan.
-I begun with the city's infamous new bikeways, but I plan on expanding it to bike sharing stations, metro stations, hospitals, and many more.
+I began with the city's infamous new bikeways, but I plan on expanding it to bike sharing stations, metro stations, hospitals, and many more.
 
 Information about Milan's infrastructures is freely available online on Comune di Milano's website (https://dati.comune.milano.it/).
 I combine it with the city’s street network from OpenStreetMap and use NetworkX to find the shortest route from each point in the city to the closest access to the infrasture.
